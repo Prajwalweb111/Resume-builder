@@ -1,0 +1,52 @@
+{
+    "name": "Prajwal Morrais Patil",
+    "oneLineDescription": "Passionate Software Developer",
+    "address":"Uttan chowk Bhayander west-401106",
+    "linkedIn": "https://www.linkedIn.com/in/prajwal-patil-a704b33256/",
+    "CarrerObjective":"To be expert in the practical field through committment, preserverance and continous improvement.",
+    "skillset": [
+      { "title": "React", "proficiency": "2/3" },
+      { "title": "TypeScript", "proficiency": "3" }
+
+      
+    ],
+
+
+
+
+    
+    "experiences": [
+      {
+        "id": 1,
+        "role": "Software Developer",
+        "location": "Mumbai",
+        "workStyle": "Hybrid",
+        "jobType": "Full-time",
+        "responsibilities": ["Assisting in designing, coding, testing, and debugging software applications", "Learning and implementing the latest technologies and development methodologies" ,"Collaborating with senior developers to enhance your technical skill and contribute to project success","Working on assigned projects with dedication and enthusiasm"],
+        "company": "Niyoshi Solution Pvt. Ltd"
+      }
+    ],
+    "education": [
+      {
+         "university": "Mumbai University",
+        "title": "St Francis Institute Of Technology (B.E)",
+        "branch": "Information Technology",
+       
+        "activities": ["thgs", "srtht"],
+        "link": "refgreg"
+      }
+    ],
+    "certifications": [{ "title": "", "other": "AWS", "expiry": "reh", "link": "fh" }],
+    "publications": [{ "title": "ryh", "other": "", "expiry": "", "link": "ryhy" }],
+    "contactDetails": {
+      "email": "patilprajwal924@gmail.com",
+      "phone": "7620770545",
+      "portfolioPage": ""
+    },
+    "volunteering": [{ "title": "rtrt", "other": "rthrt", "link": "rhrh" }],
+    "social": {
+      
+      "github": ""
+    }
+  }
+  

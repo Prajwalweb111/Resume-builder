@@ -1,0 +1,41 @@
+.resume {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.resume h1 {
+  margin-left: 10px;
+}
+
+.resume h3 {
+  color: green;
+}
+
+.resume h3.career-objective,
+.resume h2 {
+  color: green;
+  border-bottom: 4px solid black;
+}
+
+.resume h2 {
+  margin-bottom: 10px;
+}
+
+.resume .portfolio a,
+.resume .social a {
+  color: blue;
+  text-decoration: none;
+}
+
+.resume ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.resume p {
+  margin: 5px 0;
+}
+
+.resume .certifications p {
+  margin: 10px 0;
+}
